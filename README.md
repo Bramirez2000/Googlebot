@@ -1,0 +1,2 @@
+# Googlebot
+Gmail
